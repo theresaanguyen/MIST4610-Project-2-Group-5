@@ -8,7 +8,7 @@
 ## Team Members:
 1. Armaan Bhasin [@armaanbhasin](https://github.com/ArmaanBhasin698/MIST4610Project2/tree/main)
 2. Colby Cannizzaro [@colbycannizzaro](https://github.com/colbycannizzaro/MIST4610GroupProject2/tree/main)
-3. Evan Liu [@evanliu]([https://github.com/evanl0l/4610](https://github.com/evanl0l/Project2))
+3. Evan Liu [@evanliu]([https://github.com/evanl0l/4610](https://github.com/evanl0l/Project2)
 4. Theresa Nguyen[@theresanguyen](https://github.com/theresaanguyen/MIST4610-Project-2-Group-5))
 5. Allison Ramirez Diaz [@allisonramirezdiaz](https://github.com/agr56264/MIST4610-Group-Project-2/tree/main)
    
