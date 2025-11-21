@@ -31,7 +31,7 @@ Understanding the relationship between borough and crime severity is important b
 
 
 
-Our first graph illustrates the breakdown of each borough's crime rate by crime seveerity. 
+Our first graph illustrates the breakdown of each borough's crime rate by crime severity. 
 
 ### Insights Derived
 1. Misdemeanors make up the majority of arrests in every borough.
